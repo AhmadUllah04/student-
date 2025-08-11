@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  height: 180vh;
+  
+
+}
+
+.left {
+  background-color:silver;
+  border-bottom: 3px solid black;
+  color: black;
+  width: 30%;
+  padding: 40px 20px;
+}
+
+.right {
+  width: 70%;
+  padding: 40px 30px;
+  background-color: #ffffff;
+}
+
+h1, h2 {
+  margin-bottom: 20px;
+}
+
+#ahmad {
+  width: 200px;
+    height: 200px;
+    margin-left: 22%;
+    border-radius: 20%;
+    border: black;
+}
+
+.left h2 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
+  color: black;
+  font-size: 30PX;
+  font-family: Berlin Sans FB Demi;
+  
+
+}
+#phone{
+    width: 30px;
+    height: 30px;
+    margin-left: 5%;
+    
+} 
+#callno{
+    font-size: 25px;
+   text-align: center;
+   margin-top: -6%;
+   color: black;
+   
+}
+#email{
+  width: 30px;
+  height: 30px;
+  margin-left: 5%;
+  margin-top: 8%;
+}
+#gmail{
+  font-size:30px ;
+  text-align: center;
+  margin: -8%;
+  color: black;
+  font-family: Agency FB;
+}
+#location{
+  width: 30px;
+  height: 30px;
+  margin-left: 5%;
+  margin-top: 18%;
+}
+#address{
+  font-size: 30px;
+  text-align: center;
+  margin-top: -30px;
+  color: black;
+  font-family: Agency FB;
+} 
+
+.Education {
+  margin-bottom: 30px;
+}
+
+#skills{
+  text-align: left;
+  font-size: 24px;
+  border-bottom: 5px solid black;
+  margin-left: 3%;
+  font-family: Goudy Stout;
+
+}
+div ul li{
+  font-size: 25px;
+  margin-left: 3%;
+  color: black;
+  font-family: Cambria Math;
+}
+#interest{
+  text-align: left;
+  font-size: 24px;
+  border-bottom: 5px solid black;
+  margin-left: 3%;
+  font-family: Goudy Stout;
+  
+}
+#language{
+  text-align: left;
+  font-size: 24px;
+  border-bottom: 5px solid black;
+  margin-left: 3%;
+  font-family: Goudy Stout;
+  
+}
+#education{
+  font-size: 30px;
+  border-bottom: 5px solid black;
+  font-family: Goudy Stout;
+}
+div p{
+  font-size: 25px;
+  font-family: Cambria Math;
+
+}
+#handon{
+  border-bottom: 5px solid black; 
+}
+#awardsand{
+  border-bottom: 5px solid black;
+}
